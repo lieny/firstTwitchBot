@@ -1,1 +1,1 @@
-# firstTwitchBot
+Creating my first Twitch Bot with Microsoft Bot Framework!
